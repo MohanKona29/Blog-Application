@@ -26,6 +26,6 @@ Things you may want to cover:
 Blogging Application
 can create, edit and delete users
 can create, edit and delete posts
-can create, edit and delete comments
+can create, edit and delete comments!
  
 
