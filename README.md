@@ -22,5 +22,10 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
-This is my first ROR project!
+
+Blogging Application
+can create, edit and delete users
+can create, edit and delete posts
+can create, edit and delete comments
+ 
 
