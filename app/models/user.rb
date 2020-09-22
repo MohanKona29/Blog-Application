@@ -6,7 +6,7 @@ class User < ApplicationRecord
   has_many :posts , dependent: :destroy
   has_many :comments, dependent: :destroy
   validates :username, :email, :password , presence: true
-  validates :usrname, :email, uniqueness: true
+  validates :username, :email, uniqueness: true
   devise :database_authenticatable, :registerable,
          :recoverable, :rememberable, :validatable
 end
