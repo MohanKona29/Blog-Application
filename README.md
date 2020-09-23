@@ -22,3 +22,10 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+
+Blogging Application
+can create, edit and delete users
+can create, edit and delete posts
+can create, edit and delete comments!
+ 
+
